@@ -29,7 +29,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/AgneIlg/registration-form.git
+    git clone https://github.com/AgneIlg/registration-react.git
 
 2. To run the development server and execute tests use:
 
